@@ -2,17 +2,22 @@
 
 <br />
 
-**Fundamentals**
-* Strings
-* List manipulation
-* Methods
-* Conditionals (if..else)
-* Variables and Functions
-* Fancy String Manipulation
+**Fundamentals and Control Structures**
 
-**Control Structures**
-* Conditionals (if..elif)
-* Loops (iterations: for, while)
+<br />
+
+* Variables and Types
+* Lists
+* Basic Operators
+* String Formatting
+* Basic String Operations
+* Conditions
+* Loops
+* Functions
+* Classes and Objects
+* Dictionaries
+* Modules and Packages
+
 
 
 #### [Exercise List](solutions/)
